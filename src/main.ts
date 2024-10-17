@@ -1,3 +1,3 @@
-import kaplay from "kaplay";
+import k from "./kaplayCtx";
 
-kaplay();
+k
